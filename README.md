@@ -1,9 +1,7 @@
 # Motor Vehicle Registrations				
 This project analyzed motor vehicle registrations data to uncover trends and insights to inform policy decisions and improve transportation planning. The analysis included data preprocessing, exploratory data analysis (EDA), and visualization of key metrics such as registration trends over time, economic drivers, and regional variations.
 
-[Jupyter Notebook: nbviewer](https://nbviewer.org/github/ssolik/motor_vehicle_registrations/blob/main/motor_vehicle_registrations.ipynb?flush_cache=true)
-
-![Jupyter Notebook: local](motor_vehicle_registrations.ipynb)
+![Python Jupyter Notebook](motor_vehicle_registrations.ipynb)
 
 ## Key Findings
 - Motor vehicle registrations have shown a steady increase over the years, with notable spikes during economic recovery periods.
